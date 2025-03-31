@@ -47,4 +47,5 @@ Change the checkpoint path in [agent_config](navsim/planning/script/config/commo
 python navsim/planing/script/run_create_submission_pickle.py
 ```
 Then, submit the created "submission.pkl" to the [official leaderboard](https://huggingface.co/spaces/AGC2024-P/e2e-driving-navsim) on HuggingFace.
+[Pretrained model](https://drive.google.com/drive/folders/1b8HwN4v4mpM-3T7bUYPwvA9jaMTHCEAu?usp=drive_link)
 
